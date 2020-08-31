@@ -1,0 +1,16 @@
+.gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.gallery > img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+
+  box-shadow: -1px 13px 5px 0px rgba(0, 0, 0, 0.75);
+}

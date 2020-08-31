@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER": "test_mern",
+    "DB_PASSWORD": "iSe90zxfnKNek3GR",
+    "DB_NAME": "fullstack_mern"
+  }
+}

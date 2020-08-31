@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: wheat;
+  height: 90px;
+  top: 0;
+  z-index: 6;
+  position: relative;
+  width: 100%;
+}
+
+.navbar__options {
+  padding: 10px;
+  margin: 20px;
+}

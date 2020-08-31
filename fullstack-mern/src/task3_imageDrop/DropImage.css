@@ -1,0 +1,27 @@
+.dropImage {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.dropImage__title {
+  font-weight: bolder;
+}
+.rejectStyle {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-width: 2px;
+  border-color: rgb(102, 102, 102);
+  border-style: dashed;
+  border-radius: 5px;
+}
+
+.dropImage__limitation {
+  display: flex;
+  margin: 20px;
+  font-weight: bold;
+}
