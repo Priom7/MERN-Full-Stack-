@@ -17,12 +17,24 @@
 
 <br/> <br/>
 
+<img align="left" alt="priom7" src="https://github.com/Priom7/MERN-Full-Stack-/blob/master/Ui%20ScreenShots/task1_form.jpg" />
+
+<br/> <br/>
+
 ## Task 2 :
 
 10. Custom Table with Pagination React JS
 11. Data Coming from node js Server
 12. Editable Data
 13. After Edition Synchronized with Node js Backend
+
+<br/> <br/>
+
+<img align="left" alt="priom7" src="https://github.com/Priom7/MERN-Full-Stack-/blob/master/Ui%20ScreenShots/task2_table_pagination.jpg" />
+
+<br/> <br/>
+
+<img align="left" alt="priom7" src="https://github.com/Priom7/MERN-Full-Stack-/blob/master/Ui%20ScreenShots/task2_update.jpg" />
 
 <br/> <br/>
 
@@ -33,5 +45,17 @@
 16. Validate File Size
 17. Upload To Node JS
 18. Show in React JS page
+
+<br/> <br/>
+
+<img align="left" alt="priom7" src="https://github.com/Priom7/MERN-Full-Stack-/blob/master/Ui%20ScreenShots/task3.jpg" />
+
+<br/> <br/>
+
+<img align="left" alt="priom7" src="https://github.com/Priom7/MERN-Full-Stack-/blob/master/Ui%20ScreenShots/task3_images.jpg" />
+
+<br/> <br/>
+
+<img align="left" alt="priom7" src="https://github.com/Priom7/MERN-Full-Stack-/blob/master/Ui%20ScreenShots/task3_validation.jpg" />
 
 <br/> <br/>
