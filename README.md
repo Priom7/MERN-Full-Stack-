@@ -1,5 +1,8 @@
 ### Full Stack MERN TASKS
 
+1. Frontend Hosted on Netlify : https://zealous-johnson-d21e2d.netlify.app/
+2. Backend Hosted on Heroku : https://priom-mern2.herokuapp.com/api/places
+
 ## Task 1 :
 
 1. Form With React JS
